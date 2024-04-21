@@ -23,8 +23,14 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "@babel/preset-react": "^7.24.1",
     "@docusaurus/module-type-aliases": "3.2.1",
-    "@docusaurus/types": "3.2.1"
+    "@docusaurus/types": "3.2.1",
+    "install": "^0.13.0",
+    "npm": "^10.5.2"
   },
   "browserslist": {
     "production": [
