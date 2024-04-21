@@ -1,0 +1,15 @@
+{
+  "title": "Wiki - Extras",
+  "slug": "/category/wiki---extras",
+  "permalink": "/docs/category/wiki---extras",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}
