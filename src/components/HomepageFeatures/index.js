@@ -9,7 +9,7 @@ const Heading = require('@theme/Heading');
 const styles = require('./styles.module.css');
 const img1 = require('../../../static/img/1.png');
 const img2 = require('../../../static/img/2.jpg');
-const img3 = require('../../../static/img/3.PNG');
+const img3 = require('../../../static/img/3.png');
 const FeatureList = [
   {
     title: 'Fácil de usar',
