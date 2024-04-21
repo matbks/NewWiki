@@ -1,10 +1,15 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css'; 
-import img1 from '../../../static/img/1.png'; // Adjust the relative path as needed
-import img2 from '../../../static/img/2.jpg'; // Adjust the relative path as needed
-import img3 from '../../../static/img/3.PNG'; // Adjust the relative path as needed
-
+// import clsx from 'clsx';
+// import Heading from '@theme/Heading';
+// import styles from './styles.module.css'; 
+// import img1 from '../../../static/img/1.png'; // Adjust the relative path as needed
+// import img2 from '../../../static/img/2.jpg'; // Adjust the relative path as needed
+// import img3 from '../../../static/img/3.PNG'; // Adjust the relative path as needed
+const clsx = require('clsx');
+const Heading = require('@theme/Heading');
+const styles = require('./styles.module.css');
+const img1 = require('../../../static/img/1.png');
+const img2 = require('../../../static/img/2.jpg');
+const img3 = require('../../../static/img/3.PNG');
 const FeatureList = [
   {
     title: 'Fácil de usar',
