@@ -1,0 +1,21 @@
+/* Light Theme - Modern Blue */
+:root {
+  --ifm-color-primary: #007BFF; /* Vivid Blue */
+  --ifm-color-primary-dark: #006ae1; /* Darker Blue */
+  --ifm-color-primary-darker: #005dc0; /* Even Darker Blue */
+  --ifm-color-primary-darkest: #004ea0; /* Much Darker Blue */
+  --ifm-color-primary-light: #338eff; /* Lighter Blue */
+  --ifm-color-primary-lighter: #66a3ff; /* Even Lighter Blue */
+  --ifm-color-primary-lightest: #99bfff; /* Pale Blue */
+}
+
+/* Dark Theme - Modern Blue */
+[data-theme='dark'] {
+  --ifm-color-primary: #66a3ff; /* Bright Blue */
+  --ifm-color-primary-dark: #53B0F8; /* Darker Blue */
+  --ifm-color-primary-darker: #53B0F8; /* Even Darker Blue */
+  --ifm-color-primary-darkest: #31A1F8; /* Much Darker Blue */
+  --ifm-color-primary-light: #31A1F8; /* Lighter Blue */
+  --ifm-color-primary-lighter: #53B0F8; /* Even Lighter Blue */
+  --ifm-color-primary-lightest: #74C0F8; /* Very Pale Blue */
+}

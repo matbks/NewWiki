@@ -49,7 +49,7 @@ function Feature({ imgSrc, title, description }) {
         <p>{description}</p>
       </div>
     </div>
-  ); //
+  );
 }
 
 export default function HomepageFeatures() {
